@@ -77,4 +77,4 @@ Feel free to use, modify, and distribute it.
 
 ### Contact
 
-For any questions or feedback, reach out to our team at aman@google.com.
+For any questions or feedback, reach out to our team at aman@google.com (unavailable for now)

@@ -1,12 +1,6 @@
 # AMAN: Empowering Safety for Assault Victims
 
-<!DOCTYPE html>
-<html><head></head><body>
-<center>
-    ![logo AMAN](https://github.com/nattycoder/AMAN/assets/88007154/52daa7e6-ea71-40f3-b444-3b79833af0e8)
-</center>
-</body>
-</html>
+![logo AMAN](https://github.com/nattycoder/AMAN/assets/88007154/52daa7e6-ea71-40f3-b444-3b79833af0e8)
 
 ### Introduction
 

@@ -1,0 +1,791 @@
+class AfterSubmission extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return Column(
+      children: [
+        Container(
+          width: 390,
+          height: 816,
+          clipBehavior: Clip.antiAlias,
+          decoration: ShapeDecoration(
+            color: Colors.white,
+            shape: RoundedRectangleBorder(
+              borderRadius: BorderRadius.circular(24),
+            ),
+          ),
+          child: Stack(
+            children: [
+              Positioned(
+                left: 31,
+                top: 65,
+                child: SizedBox(
+                  width: 329,
+                  height: 152,
+                  child: Text(
+                    'Thank you for having the courage to share,                     your bravery is making a difference.                    We will now suggest some helpful steps.',
+                    style: TextStyle(
+                      color: Colors.black,
+                      fontSize: 22,
+                      fontFamily: 'Poppins',
+                      fontWeight: FontWeight.w600,
+                      height: 0.05,
+                      letterSpacing: 0.11,
+                    ),
+                  ),
+                ),
+              ),
+              Positioned(
+                left: 207,
+                top: 278,
+                child: Container(
+                  width: 139,
+                  height: 139,
+                  child: Stack(
+                    children: [
+                      Positioned(
+                        left: 0,
+                        top: 0,
+                        child: Container(
+                          width: 139,
+                          height: 139,
+                          child: Stack(
+                            children: [
+                              Positioned(
+                                left: 0,
+                                top: 0,
+                                child: Container(
+                                  width: 139,
+                                  height: 139,
+                                  decoration: ShapeDecoration(
+                                    color: Color(0xFFA274E3),
+                                    shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(8)),
+                                  ),
+                                ),
+                              ),
+                              Positioned(
+                                left: 4.83,
+                                top: 46.33,
+                                child: Container(
+                                  width: 128.93,
+                                  height: 46.33,
+                                  decoration: BoxDecoration(color: Color(0xFFA274E3)),
+                                  child: Column(
+                                    mainAxisSize: MainAxisSize.min,
+                                    mainAxisAlignment: MainAxisAlignment.center,
+                                    crossAxisAlignment: CrossAxisAlignment.center,
+                                    children: [
+                                      Container(
+                                        width: double.infinity,
+                                        child: Row(
+                                          mainAxisSize: MainAxisSize.min,
+                                          mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                                          crossAxisAlignment: CrossAxisAlignment.center,
+                                          children: [
+                                            Expanded(
+                                              child: SizedBox(
+                                                child: Text(
+                                                  'Connect with a lawyer',
+                                                  textAlign: TextAlign.center,
+                                                  style: TextStyle(
+                                                    color: Colors.white,
+                                                    fontSize: 20,
+                                                    fontFamily: 'Poppins',
+                                                    fontWeight: FontWeight.w600,
+                                                    height: 0.05,
+                                                  ),
+                                                ),
+                                              ),
+                                            ),
+                                          ],
+                                        ),
+                                      ),
+                                    ],
+                                  ),
+                                ),
+                              ),
+                            ],
+                          ),
+                        ),
+                      ),
+                      Positioned(
+                        left: 0,
+                        top: 0,
+                        child: Container(
+                          width: 139,
+                          height: 139,
+                          decoration: ShapeDecoration(
+                            color: Color(0xFFA274E3),
+                            shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(8)),
+                          ),
+                        ),
+                      ),
+                      Positioned(
+                        left: 5,
+                        top: 80.28,
+                        child: Container(
+                          width: 128.93,
+                          height: 46.33,
+                          decoration: BoxDecoration(color: Color(0xFFA274E3)),
+                          child: Column(
+                            mainAxisSize: MainAxisSize.min,
+                            mainAxisAlignment: MainAxisAlignment.center,
+                            crossAxisAlignment: CrossAxisAlignment.center,
+                            children: [
+                              Container(
+                                width: double.infinity,
+                                child: Row(
+                                  mainAxisSize: MainAxisSize.min,
+                                  mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                                  crossAxisAlignment: CrossAxisAlignment.end,
+                                  children: [
+                                    Expanded(
+                                      child: SizedBox(
+                                        child: Text(
+                                          'Connect with a lawyer',
+                                          textAlign: TextAlign.center,
+                                          style: TextStyle(
+                                            color: Colors.white,
+                                            fontSize: 18,
+                                            fontFamily: 'Poppins',
+                                            fontWeight: FontWeight.w500,
+                                            height: 0.06,
+                                          ),
+                                        ),
+                                      ),
+                                    ),
+                                  ],
+                                ),
+                              ),
+                            ],
+                          ),
+                        ),
+                      ),
+                      Positioned(
+                        left: 45,
+                        top: 9.59,
+                        child: Container(
+                          width: 50,
+                          height: 59.91,
+                          decoration: BoxDecoration(
+                            image: DecorationImage(
+                              image: NetworkImage("https://via.placeholder.com/50x60"),
+                              fit: BoxFit.fill,
+                            ),
+                          ),
+                        ),
+                      ),
+                    ],
+                  ),
+                ),
+              ),
+              Positioned(
+                left: 37,
+                top: 641,
+                child: Container(
+                  width: 139,
+                  height: 139,
+                  child: Stack(
+                    children: [
+                      Positioned(
+                        left: 0,
+                        top: 0,
+                        child: Container(
+                          width: 139,
+                          height: 139,
+                          child: Stack(
+                            children: [
+                              Positioned(
+                                left: 0,
+                                top: 0,
+                                child: Container(
+                                  width: 139,
+                                  height: 139,
+                                  decoration: ShapeDecoration(
+                                    color: Color(0xFFA274E3),
+                                    shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(8)),
+                                  ),
+                                ),
+                              ),
+                              Positioned(
+                                left: 6,
+                                top: 80.28,
+                                child: Container(
+                                  width: 128.93,
+                                  height: 46.33,
+                                  decoration: BoxDecoration(color: Color(0xFFA274E3)),
+                                  child: Column(
+                                    mainAxisSize: MainAxisSize.min,
+                                    mainAxisAlignment: MainAxisAlignment.center,
+                                    crossAxisAlignment: CrossAxisAlignment.center,
+                                    children: [
+                                      Container(
+                                        width: double.infinity,
+                                        child: Row(
+                                          mainAxisSize: MainAxisSize.min,
+                                          mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                                          crossAxisAlignment: CrossAxisAlignment.center,
+                                          children: [
+                                            Expanded(
+                                              child: SizedBox(
+                                                child: Text(
+                                                  'Speak to                                                   a therapist ',
+                                                  textAlign: TextAlign.center,
+                                                  style: TextStyle(
+                                                    color: Colors.white,
+                                                    fontSize: 18,
+                                                    fontFamily: 'Poppins',
+                                                    fontWeight: FontWeight.w500,
+                                                    height: 0.06,
+                                                  ),
+                                                ),
+                                              ),
+                                            ),
+                                          ],
+                                        ),
+                                      ),
+                                    ],
+                                  ),
+                                ),
+                              ),
+                            ],
+                          ),
+                        ),
+                      ),
+                      Positioned(
+                        left: 45,
+                        top: 9.59,
+                        child: Container(
+                          width: 50,
+                          height: 59.91,
+                          decoration: BoxDecoration(
+                            image: DecorationImage(
+                              image: NetworkImage("https://via.placeholder.com/50x60"),
+                              fit: BoxFit.fill,
+                            ),
+                          ),
+                        ),
+                      ),
+                    ],
+                  ),
+                ),
+              ),
+              Positioned(
+                left: 37,
+                top: 460,
+                child: Container(
+                  width: 139,
+                  height: 139,
+                  child: Stack(
+                    children: [
+                      Positioned(
+                        left: 0,
+                        top: 0,
+                        child: Container(
+                          width: 139,
+                          height: 139,
+                          child: Stack(
+                            children: [
+                              Positioned(
+                                left: 0,
+                                top: 0,
+                                child: Container(
+                                  width: 139,
+                                  height: 139,
+                                  decoration: ShapeDecoration(
+                                    color: Color(0xFFA274E3),
+                                    shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(8)),
+                                  ),
+                                ),
+                              ),
+                              Positioned(
+                                left: 6,
+                                top: 80.28,
+                                child: Container(
+                                  width: 128.93,
+                                  height: 46.33,
+                                  decoration: BoxDecoration(color: Color(0xFFA274E3)),
+                                  child: Column(
+                                    mainAxisSize: MainAxisSize.min,
+                                    mainAxisAlignment: MainAxisAlignment.center,
+                                    crossAxisAlignment: CrossAxisAlignment.center,
+                                    children: [
+                                      Container(
+                                        width: double.infinity,
+                                        child: Row(
+                                          mainAxisSize: MainAxisSize.min,
+                                          mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                                          crossAxisAlignment: CrossAxisAlignment.center,
+                                          children: [
+                                            Expanded(
+                                              child: SizedBox(
+                                                child: Text(
+                                                  'Identify Witnesses',
+                                                  textAlign: TextAlign.center,
+                                                  style: TextStyle(
+                                                    color: Colors.white,
+                                                    fontSize: 18,
+                                                    fontFamily: 'Poppins',
+                                                    fontWeight: FontWeight.w500,
+                                                    height: 0.06,
+                                                  ),
+                                                ),
+                                              ),
+                                            ),
+                                          ],
+                                        ),
+                                      ),
+                                    ],
+                                  ),
+                                ),
+                              ),
+                            ],
+                          ),
+                        ),
+                      ),
+                      Positioned(
+                        left: 45,
+                        top: 9.59,
+                        child: Container(
+                          width: 50,
+                          height: 59.91,
+                          decoration: BoxDecoration(
+                            image: DecorationImage(
+                              image: NetworkImage("https://via.placeholder.com/50x60"),
+                              fit: BoxFit.fill,
+                            ),
+                          ),
+                        ),
+                      ),
+                    ],
+                  ),
+                ),
+              ),
+              Positioned(
+                left: 203,
+                top: 460,
+                child: Container(
+                  width: 139,
+                  height: 139,
+                  child: Stack(
+                    children: [
+                      Positioned(
+                        left: 0,
+                        top: 0,
+                        child: Container(
+                          width: 139,
+                          height: 139,
+                          child: Stack(
+                            children: [
+                              Positioned(
+                                left: 0,
+                                top: 0,
+                                child: Container(
+                                  width: 139,
+                                  height: 139,
+                                  decoration: ShapeDecoration(
+                                    color: Color(0xFFA274E3),
+                                    shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(8)),
+                                  ),
+                                ),
+                              ),
+                              Positioned(
+                                left: 6,
+                                top: 80.28,
+                                child: Container(
+                                  width: 128.93,
+                                  height: 46.33,
+                                  decoration: BoxDecoration(color: Color(0xFFA274E3)),
+                                  child: Column(
+                                    mainAxisSize: MainAxisSize.min,
+                                    mainAxisAlignment: MainAxisAlignment.center,
+                                    crossAxisAlignment: CrossAxisAlignment.center,
+                                    children: [
+                                      Container(
+                                        width: double.infinity,
+                                        child: Row(
+                                          mainAxisSize: MainAxisSize.min,
+                                          mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                                          crossAxisAlignment: CrossAxisAlignment.center,
+                                          children: [
+                                            Expanded(
+                                              child: SizedBox(
+                                                child: Text(
+                                                  'Composite sketch',
+                                                  textAlign: TextAlign.center,
+                                                  style: TextStyle(
+                                                    color: Colors.white,
+                                                    fontSize: 18,
+                                                    fontFamily: 'Poppins',
+                                                    fontWeight: FontWeight.w500,
+                                                    height: 0.06,
+                                                  ),
+                                                ),
+                                              ),
+                                            ),
+                                          ],
+                                        ),
+                                      ),
+                                    ],
+                                  ),
+                                ),
+                              ),
+                            ],
+                          ),
+                        ),
+                      ),
+                      Positioned(
+                        left: 45,
+                        top: 9.59,
+                        child: Container(
+                          width: 50,
+                          height: 59.91,
+                          decoration: BoxDecoration(
+                            image: DecorationImage(
+                              image: NetworkImage("https://via.placeholder.com/50x60"),
+                              fit: BoxFit.fill,
+                            ),
+                          ),
+                        ),
+                      ),
+                    ],
+                  ),
+                ),
+              ),
+              Positioned(
+                left: 33,
+                top: 279,
+                child: Container(
+                  width: 139,
+                  height: 139,
+                  child: Stack(
+                    children: [
+                      Positioned(
+                        left: 0,
+                        top: 0,
+                        child: Container(
+                          width: 139,
+                          height: 139,
+                          child: Stack(
+                            children: [
+                              Positioned(
+                                left: 0,
+                                top: 0,
+                                child: Container(
+                                  width: 139,
+                                  height: 139,
+                                  decoration: ShapeDecoration(
+                                    color: Color(0xFFA274E3),
+                                    shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(8)),
+                                  ),
+                                ),
+                              ),
+                              Positioned(
+                                left: 6,
+                                top: 80.28,
+                                child: Container(
+                                  width: 128.93,
+                                  height: 46.33,
+                                  decoration: BoxDecoration(color: Color(0xFFA274E3)),
+                                  child: Column(
+                                    mainAxisSize: MainAxisSize.min,
+                                    mainAxisAlignment: MainAxisAlignment.center,
+                                    crossAxisAlignment: CrossAxisAlignment.center,
+                                    children: [
+                                      Container(
+                                        width: double.infinity,
+                                        child: Row(
+                                          mainAxisSize: MainAxisSize.min,
+                                          mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                                          crossAxisAlignment: CrossAxisAlignment.center,
+                                          children: [
+                                            Expanded(
+                                              child: SizedBox(
+                                                child: Text(
+                                                  'Legal                                                  Process',
+                                                  textAlign: TextAlign.center,
+                                                  style: TextStyle(
+                                                    color: Colors.white,
+                                                    fontSize: 18,
+                                                    fontFamily: 'Poppins',
+                                                    fontWeight: FontWeight.w500,
+                                                    height: 0.06,
+                                                  ),
+                                                ),
+                                              ),
+                                            ),
+                                          ],
+                                        ),
+                                      ),
+                                    ],
+                                  ),
+                                ),
+                              ),
+                            ],
+                          ),
+                        ),
+                      ),
+                      Positioned(
+                        left: 45,
+                        top: 9.59,
+                        child: Container(
+                          width: 50,
+                          height: 59.91,
+                          decoration: BoxDecoration(
+                            image: DecorationImage(
+                              image: NetworkImage("https://via.placeholder.com/50x60"),
+                              fit: BoxFit.fill,
+                            ),
+                          ),
+                        ),
+                      ),
+                    ],
+                  ),
+                ),
+              ),
+              Positioned(
+                left: 207,
+                top: 642,
+                child: Container(
+                  width: 139,
+                  height: 139,
+                  child: Stack(
+                    children: [
+                      Positioned(
+                        left: 0,
+                        top: 0,
+                        child: Container(
+                          width: 139,
+                          height: 139,
+                          child: Stack(
+                            children: [
+                              Positioned(
+                                left: 0,
+                                top: 0,
+                                child: Container(
+                                  width: 139,
+                                  height: 139,
+                                  decoration: ShapeDecoration(
+                                    color: Color(0xFFA274E3),
+                                    shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(8)),
+                                  ),
+                                ),
+                              ),
+                              Positioned(
+                                left: 6,
+                                top: 80.28,
+                                child: Container(
+                                  width: 128.93,
+                                  height: 46.33,
+                                  decoration: BoxDecoration(color: Color(0xFFA274E3)),
+                                  child: Column(
+                                    mainAxisSize: MainAxisSize.min,
+                                    mainAxisAlignment: MainAxisAlignment.center,
+                                    crossAxisAlignment: CrossAxisAlignment.center,
+                                    children: [
+                                      Container(
+                                        width: double.infinity,
+                                        child: Row(
+                                          mainAxisSize: MainAxisSize.min,
+                                          mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                                          crossAxisAlignment: CrossAxisAlignment.center,
+                                          children: [
+                                            Expanded(
+                                              child: SizedBox(
+                                                child: Text(
+                                                  'Join AMAN\ncommunity',
+                                                  textAlign: TextAlign.center,
+                                                  style: TextStyle(
+                                                    color: Colors.white,
+                                                    fontSize: 18,
+                                                    fontFamily: 'Poppins',
+                                                    fontWeight: FontWeight.w500,
+                                                    height: 0.06,
+                                                  ),
+                                                ),
+                                              ),
+                                            ),
+                                          ],
+                                        ),
+                                      ),
+                                    ],
+                                  ),
+                                ),
+                              ),
+                            ],
+                          ),
+                        ),
+                      ),
+                      Positioned(
+                        left: 49,
+                        top: 15,
+                        child: Container(
+                          width: 40.06,
+                          height: 48,
+                          decoration: BoxDecoration(
+                            image: DecorationImage(
+                              image: NetworkImage("https://via.placeholder.com/40x48"),
+                              fit: BoxFit.fill,
+                            ),
+                          ),
+                        ),
+                      ),
+                    ],
+                  ),
+                ),
+              ),
+              Positioned(
+                left: 0,
+                top: 0,
+                child: Container(
+                  width: 390,
+                  height: 35,
+                  decoration: BoxDecoration(
+                    color: Colors.white,
+                    border: Border.only(
+                      left: BorderSide(color: Color(0xFFF8F8F8)),
+                      top: BorderSide(color: Color(0xFFF8F8F8)),
+                      right: BorderSide(color: Color(0xFFF8F8F8)),
+                      bottom: BorderSide(width: 1, color: Color(0xFFF8F8F8)),
+                    ),
+                  ),
+                  child: Row(
+                    mainAxisSize: MainAxisSize.min,
+                    mainAxisAlignment: MainAxisAlignment.center,
+                    crossAxisAlignment: CrossAxisAlignment.center,
+                    children: [
+                      Container(
+                        width: 34.49,
+                        height: 15.14,
+                        padding: const EdgeInsets.only(bottom: 0.14),
+                        clipBehavior: Clip.antiAlias,
+                        decoration: BoxDecoration(),
+                        child: Row(
+                          mainAxisSize: MainAxisSize.min,
+                          mainAxisAlignment: MainAxisAlignment.center,
+                          crossAxisAlignment: CrossAxisAlignment.center,
+                          children: [
+                            SizedBox(
+                              width: 42.06,
+                              child: Opacity(
+                                opacity: 0.90,
+                                child: Text(
+                                  '09:41',
+                                  textAlign: TextAlign.center,
+                                  style: TextStyle(
+                                    color: Color(0xFF392E32),
+                                    fontSize: 12.62,
+                                    fontFamily: 'Inter',
+                                    fontWeight: FontWeight.w600,
+                                    height: 0,
+                                  ),
+                                ),
+                              ),
+                            ),
+                          ],
+                        ),
+                      ),
+                      const SizedBox(width: 230.47),
+                      Container(
+                        child: Row(
+                          mainAxisSize: MainAxisSize.min,
+                          mainAxisAlignment: MainAxisAlignment.start,
+                          crossAxisAlignment: CrossAxisAlignment.start,
+                          children: [
+                            Container(
+                              width: 14.18,
+                              height: 8.97,
+                              child: Stack(children: [
+                              ,
+                              ]),
+                            ),
+                            const SizedBox(width: 3.36),
+                            Container(
+                              child: Row(
+                                mainAxisSize: MainAxisSize.min,
+                                mainAxisAlignment: MainAxisAlignment.start,
+                                crossAxisAlignment: CrossAxisAlignment.start,
+                                children: [
+                                  Container(
+                                    width: 12.74,
+                                    height: 9.22,
+                                    decoration: BoxDecoration(
+                                      image: DecorationImage(
+                                        image: NetworkImage("https://via.placeholder.com/13x9"),
+                                        fit: BoxFit.fill,
+                                      ),
+                                    ),
+                                  ),
+                                  const SizedBox(width: 3.36),
+                                  Container(
+                                    width: 20.61,
+                                    height: 8.83,
+                                    child: Stack(
+                                      children: [
+                                        Positioned(
+                                          left: 0,
+                                          top: 0,
+                                          child: Opacity(
+                                            opacity: 0.50,
+                                            child: Container(
+                                              width: 18.50,
+                                              height: 8.83,
+                                              decoration: BoxDecoration(
+                                                image: DecorationImage(
+                                                  image: NetworkImage("https://via.placeholder.com/19x9"),
+                                                  fit: BoxFit.fill,
+                                                ),
+                                              ),
+                                            ),
+                                          ),
+                                        ),
+                                        Positioned(
+                                          left: 19.35,
+                                          top: 2.94,
+                                          child: Opacity(
+                                            opacity: 0.50,
+                                            child: Container(
+                                              width: 1.26,
+                                              height: 3.26,
+                                              decoration: BoxDecoration(
+                                                image: DecorationImage(
+                                                  image: NetworkImage("https://via.placeholder.com/1x3"),
+                                                  fit: BoxFit.fill,
+                                                ),
+                                              ),
+                                            ),
+                                          ),
+                                        ),
+                                        Positioned(
+                                          left: 1.68,
+                                          top: 1.68,
+                                          child: Container(
+                                            width: 15.14,
+                                            height: 5.47,
+                                            decoration: ShapeDecoration(
+                                              color: Color(0xFF392E32),
+                                              shape: RoundedRectangleBorder(
+                                                borderRadius: BorderRadius.circular(0.84),
+                                              ),
+                                            ),
+                                          ),
+                                        ),
+                                      ],
+                                    ),
+                                  ),
+                                ],
+                              ),
+                            ),
+                          ],
+                        ),
+                      ),
+                    ],
+                  ),
+                ),
+              ),
+            ],
+          ),
+        ),
+      ],
+    );
+  }
+}

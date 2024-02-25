@@ -1,4 +1,6 @@
 # AMAN: Empowering Safety for Assault Victims
+<center>![logo AMAN](https://github.com/nattycoder/AMAN/assets/88007154/52daa7e6-ea71-40f3-b444-3b79833af0e8)</center>
+
 ### Introduction
 
 AMAN is a mobile application developed for everyone who's ever been a victim of any kind of assault, aiming to empower them and provide a safe platform for reporting incidents such as rape, harassment, and other forms of assault. The name “AMAN” translates to “safety” in Arabic.

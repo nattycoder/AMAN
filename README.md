@@ -23,11 +23,12 @@ AMAN successfully fufils 4 goals of the Sustainable Development Goals around the
     SDG 5: Gender Equality
     SDG 10: Reduced Inequalities
     SDG 16: Peace, Justice And Strong Institutions
-    
-![sdg3](https://github.com/nattycoder/AMAN/assets/88007154/d5b45c19-f102-4cd2-b3af-efff4a7ac0ef)
-![sdg5](https://github.com/nattycoder/AMAN/assets/88007154/73da5f02-cd7b-4774-aeb7-47723bcd2284)
-![sdg10](https://github.com/nattycoder/AMAN/assets/88007154/65e8a4e0-fa30-45d0-a9ef-24aa51e1d020)
-![sdg16](https://github.com/nattycoder/AMAN/assets/88007154/4f972770-7152-456e-a113-6dc00555774c)
+<p align="center">
+    <img src="https://github.com/nattycoder/AMAN/assets/88007154/d5b45c19-f102-4cd2-b3af-efff4a7ac0ef" width=50% height=50%>
+    <img src="https://github.com/nattycoder/AMAN/assets/88007154/73da5f02-cd7b-4774-aeb7-47723bcd2284" width=50% height=50%>
+    <img src="https://github.com/nattycoder/AMAN/assets/88007154/65e8a4e0-fa30-45d0-a9ef-24aa51e1d020" width=50% height=50%>
+    <img src="https://github.com/nattycoder/AMAN/assets/88007154/4f972770-7152-456e-a113-6dc00555774c" width=50% height=50%>
+</p>
 
 ### Features
 

@@ -3,6 +3,15 @@
 
 AMAN is a mobile application developed for everyone who's ever been a victim of any kind of assault, aiming to empower them and provide a safe platform for reporting incidents such as rape, harassment, and other forms of assault. The name “AMAN” translates to “safety” in Arabic.
 
+### Technologies
+
+AMAN was developed using multiple technologies with a focus on these google technologies:
+
+    Flutter
+    Firebase
+    Google Play
+    Google Maps
+
 ### Features
 
 The AMAN app comes with several features designed to enhance safety and anonymity:

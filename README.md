@@ -12,6 +12,15 @@ AMAN was developed using multiple technologies with a focus on these google tech
     Google Play
     Google Maps
 
+### Purpose
+
+AMAN successfully fufils 4 goals of the Sustainable Development Goals around the world, namely:
+
+    SDG 3: Good Health And Well-Being
+    SDG 5: Gender Equality
+    SDG 10: Reduced Inequalities
+    SDG 16: Peace, Justice And Strong Institutions
+
 ### Features
 
 The AMAN app comes with several features designed to enhance safety and anonymity:

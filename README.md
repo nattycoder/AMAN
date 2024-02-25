@@ -35,6 +35,7 @@ AMAN successfully fufils 4 goals of the Sustainable Development Goals around the
 The AMAN app comes with several features designed to enhance safety and anonymity:
 
 <p align="center">
+    <img src="https://github.com/nattycoder/AMAN/assets/88007154/a6a17245-6f65-4b97-9432-9dbac3836e8d" width=50% height=50%>
     <img src="https://github.com/nattycoder/AMAN/assets/88007154/4e1e531b-1ca0-495b-87b8-e373a371bebd" width=50% height=50%>
     <img src="https://github.com/nattycoder/AMAN/assets/88007154/9e725063-f7d3-4409-b5fb-4cbfab33e6b3" width=50% height=50%>
     <img src="https://github.com/nattycoder/AMAN/assets/88007154/0af5e6b2-ed02-4fa0-9d18-9c31fbb8dde9" width=50% height=50%>
@@ -45,7 +46,6 @@ The AMAN app comes with several features designed to enhance safety and anonymit
     <img src="https://github.com/nattycoder/AMAN/assets/88007154/543beb00-4225-4112-8ceb-2d80d60edd3d" width=50% height=50%>
     <img src="https://github.com/nattycoder/AMAN/assets/88007154/f21abc5b-079a-4850-a1ec-f8a58b0e38ef" width=50% height=50%>
     <img src="https://github.com/nattycoder/AMAN/assets/88007154/21c2df5d-0c85-46d1-8625-9e1bdc291f47" width=50% height=50%>
-    <img src="" width=50% height=50%>
 </p>
 
 

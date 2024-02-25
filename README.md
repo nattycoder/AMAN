@@ -1,5 +1,5 @@
-AMAN: Empowering Safety for Assault Victims
-Introduction
+# AMAN: Empowering Safety for Assault Victims
+### Introduction
 
 AMAN is a mobile application developed specifically for women, aiming to empower them and provide a safe platform for reporting incidents such as rape, harassment, and other forms of assault. The name “AMAN” translates to “safety” in Arabic.
 Features
@@ -10,16 +10,16 @@ The AMAN app comes with several features designed to enhance safety and anonymit
     Safe Shake: Even if the app is closed, shaking the mobile device triggers SOS alerts to pre-defined contacts.
     Helplines: Quick access to emergency services such as police stations, hospitals, fire brigades, and pharmacies.
 
-Installation
+### Installation
 
 To install and run the AMAN app, follow these steps:
 
-    Clone the repository: git clone https://github.com/your-username/aman-app.git
-    Navigate to the project directory: cd aman-app
+    Clone the repository: git clone https://github.com/your-username/AMAN.git
+    Navigate to the project directory: cd AMAN
     Install dependencies: npm install or yarn install
     Run the app: npm start or yarn start
 
-Contributing
+### Contributing
 
 We welcome contributions from the community! If you’d like to contribute to AMAN, please follow these guidelines:
 
@@ -29,9 +29,15 @@ We welcome contributions from the community! If you’d like to contribute to AM
     Push to your forked repository: git push origin feature/your-feature-name
     Create a pull request.
 
-License
+### License
 
-This project is licensed under the MIT License. Feel free to use, modify, and distribute it.
-Contact
+This project's ownership belongs to:
+    Ranim Hassine
+    Hanin Mahmoudi
+    Hiba Chaabnia
+    Alaa Eddine Ayedi
+Feel free to use, modify, and distribute it.
+
+### Contact
 
 For any questions or feedback, reach out to our team at team@example.com.

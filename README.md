@@ -1,8 +1,9 @@
 # AMAN: Empowering Safety for Assault Victims
 ### Introduction
 
-AMAN is a mobile application developed specifically for women, aiming to empower them and provide a safe platform for reporting incidents such as rape, harassment, and other forms of assault. The name “AMAN” translates to “safety” in Arabic.
-Features
+AMAN is a mobile application developed for everyone who's ever been a victim of any kind of assault, aiming to empower them and provide a safe platform for reporting incidents such as rape, harassment, and other forms of assault. The name “AMAN” translates to “safety” in Arabic.
+
+### Features
 
 The AMAN app comes with several features designed to enhance safety and anonymity:
 
@@ -29,13 +30,15 @@ We welcome contributions from the community! If you’d like to contribute to AM
     Push to your forked repository: git push origin feature/your-feature-name
     Create a pull request.
 
-### License
+### Founders
 
 This project's ownership belongs to:
+
     Ranim Hassine
     Hanin Mahmoudi
     Hiba Chaabnia
     Alaa Eddine Ayedi
+    
 Feel free to use, modify, and distribute it.
 
 ### Contact

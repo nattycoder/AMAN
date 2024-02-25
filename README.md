@@ -11,7 +11,17 @@ The AMAN app comes with several features designed to enhance safety and anonymit
     Safe Shake: Even if the app is closed, shaking the mobile device triggers SOS alerts to pre-defined contacts.
     Helplines: Quick access to emergency services such as police stations, hospitals, fire brigades, and pharmacies.
 
-https://github.com/nattycoder/AMAN/issues/1#issue-2152895666
+![426304040_3819325331613772_2106229663950220192_n](https://github.com/nattycoder/AMAN/assets/88007154/a6a17245-6f65-4b97-9432-9dbac3836e8d)
+![426179735_731260975772416_328464825183655651_n(1)](https://github.com/nattycoder/AMAN/assets/88007154/4e1e531b-1ca0-495b-87b8-e373a371bebd)
+![426069808_1083483892770694_1273452468634006541_n](https://github.com/nattycoder/AMAN/assets/88007154/9e725063-f7d3-4409-b5fb-4cbfab33e6b3)
+![426039996_747036327404939_7343768064484199361_n](https://github.com/nattycoder/AMAN/assets/88007154/0af5e6b2-ed02-4fa0-9d18-9c31fbb8dde9)
+![429631967_710746777909201_1238848506425983212_n](https://github.com/nattycoder/AMAN/assets/88007154/e4883f88-f076-41e6-ac60-a65732ae6c61)
+![429634585_312952088042267_3730431006771524497_n](https://github.com/nattycoder/AMAN/assets/88007154/45e47a81-999f-4ca0-a143-9c06ac295451)
+![426082541_1372351920082355_8897005491657783013_n](https://github.com/nattycoder/AMAN/assets/88007154/209b5f39-e147-4263-9730-032d07c99e35)
+![426106844_407559848458398_6563932175128589814_n](https://github.com/nattycoder/AMAN/assets/88007154/0dab0fd9-829d-4dc1-b033-3f8ea775660e)
+![426200100_1369447417107262_6643282251834613199_n](https://github.com/nattycoder/AMAN/assets/88007154/543beb00-4225-4112-8ceb-2d80d60edd3d)
+![426294736_1412499166347168_1845951508192494310_n](https://github.com/nattycoder/AMAN/assets/88007154/f21abc5b-079a-4850-a1ec-f8a58b0e38ef)
+![426289670_1430502427819798_5938838964508241779_n](https://github.com/nattycoder/AMAN/assets/88007154/21c2df5d-0c85-46d1-8625-9e1bdc291f47)
 
 ### Installation
 

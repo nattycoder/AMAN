@@ -27,14 +27,10 @@ The AMAN app comes with several features designed to enhance safety and anonymit
 
 To install and run the AMAN app, follow these steps:
 
-    Clone the repository: 
-        git clone https://github.com/your-username/AMAN.git
-    Navigate to the project directory: 
-        cd AMAN
-    Install dependencies: 
-        npm install or yarn install
-    Run the app: 
-        npm start or yarn start
+    Clone the repository: git clone https://github.com/your-username/AMAN.git
+    Navigate to the project directory: cd AMAN
+    Install dependencies: npm install or yarn install
+    Run the app: npm start or yarn start
 
 ### Contributing
 

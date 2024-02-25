@@ -11,6 +11,8 @@ The AMAN app comes with several features designed to enhance safety and anonymit
     Safe Shake: Even if the app is closed, shaking the mobile device triggers SOS alerts to pre-defined contacts.
     Helplines: Quick access to emergency services such as police stations, hospitals, fire brigades, and pharmacies.
 
+https://github.com/nattycoder/AMAN/issues/1#issue-2152895666
+
 ### Installation
 
 To install and run the AMAN app, follow these steps:
